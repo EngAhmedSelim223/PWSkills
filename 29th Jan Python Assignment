@@ -1,0 +1,16 @@
+1.answer ==> Guido van Rossum in 1991
+2.answer ==> python is a dynamic typing language which supports four main programming paradigms: imperative, functional, procedural, and OOP.
+3.answer ==> yes python is case sensetive that means A <> a
+4.answer ==> the extension of python file is .py but there are kernels based on python like jupyter notebook which has different extension .ipynb
+5.answer ==> Pyhton code interpreted 
+6.answer ==> in the lecture we didn't talk about that but code blocks is more than statement that perform a certain task like if , while, function, ...etc
+7.answer ==> for single line comment we can either use # or ## 
+8.answer ==> first we have to import python_version() from platform module with [from platform import python_version] the use the method python_version()
+9.answer ==> also i think it's not in the scope of 29th but after search the lambda is the construct that help to make anonymous functions which called lambda functions
+10.answer ==> pip stand for prefferred installer program which is the installation manager we use to install different python packages.
+11.answer ==> some of python built in functions [print,upper,lower,len,...]
+12.answer ==> the maximum possible length of python identifier is 79 chars
+13.answer ==> the benefit of using python is that actually i can do any thing with it like game development, web, desktop, and even mobile apps and finally it is the most powerful in my passion whic is data science
+14.answer ==> after little search i found that python deal with memory in two parts the first is the object and the second is non-object which both use a portion of memory differently
+15.answer ==> the easiest way to install python on windows is just download and install anaconda environment
+16.answer ==> yes indentation is very important in python
